@@ -1,4 +1,4 @@
-# Pioneer WYT UART hacking
+## Pioneer WYT UART hacking
 
 This is probably useless to anyone who might stumble upon it.
 Just my raw notes that I can hardly understand since I took some time off working on it.
