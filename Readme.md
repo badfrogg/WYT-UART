@@ -11,4 +11,7 @@ I intended to have full control and feedback… one day.
 
  - `bytes-n-bits` I did some reverse engineering of Tx and Rx strings that were captured while commanding the air conditioner with the app. Pretty sure this is just feedback stuff, i.e. reverse engineering just the Rx.
 
+
+
+
 Link for my reference [Pioneer WYT mini split wifi integration] (https://community.home-assistant.io/t/pioneer-wyt-mini-split-wifi-integration/434616/40?page=2)
