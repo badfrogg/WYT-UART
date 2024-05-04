@@ -8,3 +8,5 @@ I still want to figure this out though and I may start again soon.
 This is to break the chains of having to have a third party cloud app to control my air conditioner and be able to command it trough the serial UART.
 
 I intended to have full control and feedback… one day.
+
+ - `bytes-n-bits` I did some reverse engineering of Tx and Rx strings that were captured while commanding the air conditioner with the app. 
