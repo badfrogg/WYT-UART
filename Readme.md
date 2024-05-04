@@ -9,4 +9,4 @@ This is to break the chains of having to have a third party cloud app to control
 
 I intended to have full control and feedback… one day.
 
- - `bytes-n-bits` I did some reverse engineering of Tx and Rx strings that were captured while commanding the air conditioner with the app. 
+ - `bytes-n-bits` I did some reverse engineering of Tx and Rx strings that were captured while commanding the air conditioner with the app. Pretty sure this is just feedback stuff, i.e. reverse engineering just the Rx.
